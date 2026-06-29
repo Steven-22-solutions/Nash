@@ -317,3 +317,466 @@ Objetivo final
 Construir una plataforma web moderna de simulación que funcione desde Termux y pueda abrirse desde cualquier dispositivo conectado a la misma red local.
 
 El proyecto servirá como práctica de desarrollo web, Python y arquitectura de software, y podrá formar parte de un portafolio profesional.
+
+
+╔══════════════════════════════════════════════════════════════╗
+║                 NASH GLOBAL MONITOR v0.1                   ║
+╠══════════════════════════════════════════════════════════════╣
+║ Estado       : 🟢 ONLINE                                   ║                                                ║ Sensores     : 24 activos                                  ║
+║ Satélites    : 8 simulados                                 ║                                                ║ Base         : Centro de Operaciones                       ║
+║ Hora         : 23:28:52                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+┌──────────────────────────────┐
+│       MENÚ PRINCIPAL         │
+├──────────────────────────────┤
+│ [1] Iniciar monitoreo        │
+│ [2] Estado del sistema       │
+│ [3] Configuración            │
+│ [4] Salir                    │
+└──────────────────────────────┘
+NASH > 4
+
+Cerrando NASH Monitor...
+~/nash-monitor $ ^C
+~/nash-monitor $ 1
+No command 1 found, did you mean:
+ Command [ in package coreutils
+ Command k in package kona
+ Command o in package orbiton
+ Command q in package q-dns-client
+ Command X in package xorg-server from the x11-repo repository
+~/nash-monitor $ cd~
+No command cd~ found, did you mean:
+ Command adb in package android-tools
+ Command dc in package bc
+ Command cfm in package cfm
+ Command cgdb in package cgdb
+ Command cjs in package cjs from the x11-repo repository
+ Command c++ in package clang
+ Command code in package code-is-code-oss from the x11-repo repository
+ Command ccr in package codecrypt
+ Command cbc in package coinor-cbc
+ Command clp in package coinor-clp
+ Command ctr in package containerd from the root-repo repository
+ Command cat in package coreutils
+ Command cvs in package cvs
+ Command d8 in package d8
+ Command cmp in package diffutils
+ Command c44 in package djvulibre
+ Command dx in package dx
+ Command ed in package ed
+ Command fd in package fd
+ Command fdm in package fdm
+ Command dl in package gatling
+ Command gdb in package gdb
+ Command gdu in package gdu
+ Command fdp in package graphviz
+ Command hcd in package hfsutils
+ Command rd6 in package ipv6toolkit
+ Command ldd in package ldd
+ Command cvt in package libxcvt from the x11-repo repository
+ Command ld in package lld
+ Command mda in package mailutils
+ Command mdp in package mdp
+ Command mdb in package mercury
+ Command csc in package mono
+ Command mcd in package mtools
+ Command ncdc in package ncdc
+ Command ncdu in package ncdu
+ Command jdb in package openjdk-21
+ Command jdb in package openjdk-25
+ Command ode in package plotutils from the x11-repo repository
+ Command cct in package proj
+ Command pd in package proot-distro
+ Command rcdn in package rcm
+ Command ci in package rcs
+ Command sd in package sd
+ Command tdl in package tdl
+ Command cmd in package termux-tools
+ Command cal in package util-linux
+ Command cu in package uucp
+~/nash-monitor $
+~/nash-monitor $ cd..
+No command cd.. found, did you mean:
+ Command adb in package android-tools
+ Command dc in package bc
+ Command dab in package bsd-games
+ Command col1 in package byobu
+ Command caddy in package caddy
+ Command caja in package caja from the x11-repo repository
+ Command calc in package calc
+ Command cava in package cava
+ Command ca65 in package cc65
+ Command cccc in package cccc
+ Command ccls in package ccls
+ Command ccat in package ccrypt
+ Command cfm in package cfm
+ Command cgdb in package cgdb
+ Command cpnt in package chntpw
+ Command ciso in package ciso
+ Command cjs in package cjs from the x11-repo repository
+ Command c++ in package clang
+ Command cmus in package cmus
+ Command code in package code-is-code-oss from the x11-repo repository
+ Command ccr in package codecrypt
+ Command codon in package codon
+ Command cbc in package coinor-cbc
+ Command clp in package coinor-clp
+ Command colm in package colm
+ Command cdiff in package colordiff
+ Command ctr in package containerd from the root-repo repository
+ Command clit in package convertlit
+ Command cook in package cookcli
+ Command cat in package coreutils
+ Command cpio in package cpio
+ Command cppi in package cppi
+ Command croc in package croc
+ Command crow in package crow-translate from the x11-repo repository
+ Command csol in package csol
+ Command curl in package curl
+ Command cuse in package cuse from the x11-repo repository
+ Command cvs in package cvs
+ Command d8 in package d8
+ Command dar in package dar
+ Command dlv in package delve
+ Command dia in package dia from the x11-repo repository
+ Command cmp in package diffutils
+ Command c44 in package djvulibre
+ Command dig in package dnsutils
+ Command dtc in package dtc
+ Command dte in package dte
+ Command dua in package dua
+ Command duc in package duc
+ Command duf in package duf
+ Command duk in package duktape
+ Command dwm in package dwm from the x11-repo repository
+ Command dx in package dx
+ Command edox in package e16 from the x11-repo repository
+ Command ed in package ed
+ Command fd in package fd
+ Command fdm in package fdm
+ Command cast in package foundry
+ Command dl in package gatling
+ Command gdal in package gdal
+ Command gdb in package gdb
+ Command gdu in package gdu
+ Command clef in package geth-utils
+ Command cobc in package gnucobol
+ Command dot in package graphviz
+ Command chem in package groff
+ Command hcd in package hfsutils
+ Command rd6 in package ipv6toolkit
+ Command kdbg in package kdbg from the x11-repo repository
+ Command kdig in package knot-utils
+ Command dub in package ldc
+ Command ldd in package ldd
+ Command gdnc in package libgnustep-base
+ Command idn2 in package libidn2
+ Command cjxl in package libjxl-progs
+ Command dwp in package libllvm
+ Command cvt in package libxcvt from the x11-repo repository
+ Command cxpm in package libxpm from the x11-repo repository
+ Command ld in package lld
+ Command comp in package mailutils
+ Command mdfc in package markdown-flashcards
+ Command mdp in package mdp
+ Command mdb in package mercury
+ Command csc in package mono
+ Command edit in package msedit
+ Command mcd in package mtools
+ Command edge in package n2n
+ Command ncdc in package ncdc
+ Command ncdu in package ncdu
+ Command comp in package nmh
+ Command jdb in package openjdk-21
+ Command jdb in package openjdk-25
+ Command cpan in package perl
+ Command ode in package plotutils from the x11-repo repository
+ Command cct in package proj
+ Command pd in package proot-distro
+ Command idle in package python-tkinter
+ Command rcdn in package rcm
+ Command ci in package rcs
+ Command rdbg in package ruby
+ Command scdoc in package scdoc
+ Command sd in package sd
+ Command sdcv in package sdcv
+ Command tdl in package tdl
+ Command chsh in package termux-tools
+ Command ctie in package texlive-bin
+ Command cal in package util-linux
+ Command cu in package uucp
+ Command cvlc in package vlc
+ Command cvlc in package vlc-qt from the x11-repo repository
+~/nash-monitor $ pwd
+/data/data/com.termux/files/home/nash-monitor
+~/nash-monitor $ cd ~
+~ $ pwd
+/data/data/com.termux/files/home
+~ $ cd ~
+~ $ pwd
+/data/data/com.termux/files/home
+~ $ mkdir nash-web
+~ $ cd nash-web
+~/nash-web $ mkdir api
+~/nash-web $ mkdir templates
+~/nash-web $ mkdir static
+~/nash-web $ mkdir static/css
+~/nash-web $ mkdir static/js
+~/nash-web $ mkdir data
+~/nash-web $ mkdir logstouch app.py
+~/nash-web $ touch requirements.txt
+~/nash-web $ touch api/simulator.py
+~/nash-web $ touch templates/index.html
+~/nash-web $ touch static/css/style.css
+~/nash-web $ touch static/js/app.js
+~/nash-web $ pkg install python
+Hit:1 https://termux.net stable InRelease
+All packages are up to date.
+python is already the newest version (3.13.13-1).
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 0
+~/nash-web $ pkg install flask
+Error: Unable to locate package flask
+~/nash-web $ pip install flask
+Collecting flask
+  Downloading flask-3.1.3-py3-none-any.whl.metadata (3.2 kB)
+Collecting blinker>=1.9.0 (from flask)
+  Downloading blinker-1.9.0-py3-none-any.whl.metadata (1.6 kB)
+Collecting click>=8.1.3 (from flask)
+  Downloading click-8.4.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting itsdangerous>=2.2.0 (from flask)
+  Downloading itsdangerous-2.2.0-py3-none-any.whl.metadata (1.9 kB)
+Collecting jinja2>=3.1.2 (from flask)
+  Downloading jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting markupsafe>=2.1.1 (from flask)
+  Downloading markupsafe-3.0.3.tar.gz (80 kB)
+  Installing build dependencies ... |
+/done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting werkzeug>=3.1.0 (from flask)
+  Downloading werkzeug-3.1.8-py3-none-any.whl.metadata (4.0 kB)
+Downloading flask-3.1.3-py3-none-any.whl (103 kB)
+Downloading blinker-1.9.0-py3-none-any.whl (8.5 kB)
+Downloading click-8.4.2-py3-none-any.whl (119 kB)
+Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Downloading jinja2-3.1.6-py3-none-any.whl (134 kB)
+Downloading werkzeug-3.1.8-py3-none-any.whl (226 kB)
+Building wheels for collected packages: markupsafe
+  Building wheel for markupsafe (pyproject.toml) ... done
+  Created wheel for markupsafe: filename=markupsafe-3.0.3-cp313-cp313-android_30_arm64_v8a.whl size=18973 sha256=99c6cb22e172abedc635cc1afdd2281a77bd4df685c3678f544a41722539fb31
+  Stored in directory: /data/data/com.termux/files/home/.cache/pip/wheels/ad/6e/85/4aaad8d83b3cef2b429e67df774a5a743326adaac07c41ce14
+Successfully built markupsafe
+Installing collected packages: markupsafe, itsdangerous, click, blinker, werkzeug, jinja2, flask
+Successfully installed blinker-1.9.0 click-8.4.2 flask-3.1.3 itsdangerous-2.2.0 jinja2-3.1.6 markupsafe-3.0.3 werkzeug-3.1.8
+~/nash-web $
+~/nash-web $ nano app.py
+~/nash-web $ nano app.py
+~/nash-web $ nano templates/index.html
+~/nash-web $ nano static/css/style.css
+~/nash-web $ nano static/js/app.js
+~/nash-web $ python app.py
+/data/data/com.termux/files/usr/bin/python: can't find '__main__' module in '/data/data/com.termux/files/home/nash-web/app.py'
+~/nash-web $ pwd
+/data/data/com.termux/files/home/nash-web
+~/nash-web $ ls -l
+total 25
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 api
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 app.py
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 data
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 logstouch
+-rw-------. 1 u0_a237 u0_a237  217 Jun 27 23:41 nash
+-rw-------. 1 u0_a237 u0_a237    0 Jun 27 23:34 requirements.txt
+drwx------. 4 u0_a237 u0_a237 3452 Jun 27 23:34 static
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 templates
+~/nash-web $ rm -r app.py
+~/nash-web $ touch app.py
+~/nash-web $ ls -l
+total 22
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 api
+-rw-------. 1 u0_a237 u0_a237    0 Jun 27 23:46 app.py
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 data
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 logstouch
+-rw-------. 1 u0_a237 u0_a237  217 Jun 27 23:41 nash
+-rw-------. 1 u0_a237 u0_a237    0 Jun 27 23:34 requirements.txt
+drwx------. 4 u0_a237 u0_a237 3452 Jun 27 23:34 static
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 templates
+~/nash-web $ nano app.py
+~/nash-web $ ls -l
+total 26
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 api
+-rw-------. 1 u0_a237 u0_a237  214 Jun 27 23:47 app.py
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 data
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 logstouch
+-rw-------. 1 u0_a237 u0_a237  217 Jun 27 23:41 nash
+-rw-------. 1 u0_a237 u0_a237    0 Jun 27 23:34 requirements.txt
+drwx------. 4 u0_a237 u0_a237 3452 Jun 27 23:34 static
+drwx------. 2 u0_a237 u0_a237 3452 Jun 27 23:34 templates
+~/nash-web $ python app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.3.12.241:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 871-732-196
+127.0.0.1 - - [27/Jun/2026 23:49:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:49:05] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:49:05] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:49:05] "GET /favicon.ico HTTP/1.1" 404 -
+nano templates/index.html
+
+^C~/nash-web $ nano templates/index.html
+~/nash-web $ nano static/css/style.css
+~/nash-web $ nano static/js/app.js
+~/nash-web $ python app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.3.12.241:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 140-953-192
+127.0.0.1 - - [27/Jun/2026 23:55:35] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:55:36] "GET /static/css/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:55:36] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:56:43] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Jun/2026 23:56:43] "GET /static/js/app.js HTTP/1.1" 304 -
+127.0.0.1 - - [27/Jun/2026 23:56:43] "GET /static/css/style.css HTTP/1.1" 304 -
+~/nash-web $ nano templates/index.html
+~/nash-web $ nano templates/index.html
+~/nash-web $ nano static/js/app.js
+~/nash-web $ python app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.3.12.241:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 595-765-634
+127.0.0.1 - - [28/Jun/2026 07:05:39] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [28/Jun/2026 07:05:39] "GET /static/css/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [28/Jun/2026 07:05:39] "GET /static/js/app.js HTTP/1.1" 200 -
+~/nash-web $ neofetch
+         -o          o-            u0_a237@localhost
+          +hydNNNNdyh+             -----------------
+        +mMMMMMMMMMMMMm+           OS: Android 14 aarc
+      `dMMm:NMMMMMMN:mMMd`         Host: motorola moto
+      hMMMMMMMMMMMMMMMMMMh         Kernel: 5.10.240-an
+  ..  yyyyyyyyyyyyyyyyyyyy  ..     Uptime: 10 hours, 3
+.mMMm`MMMMMMMMMMMMMMMMMMMM`mMMm.   Packages: 197 (dpkg
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Shell: bash 5.3.9
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   CPU: (8) @ 850MHz
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:   Memory: 4173MiB / 7
+:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
+-MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
+ +yy+ MMMMMMMMMMMMMMMMMMMM +yy+
+      mMMMMMMMMMMMMMMMMMMm
+      `/++MMMMh++hMMMM++/`
+          MMMMo  oMMMM
+          MMMMo  oMMMM
+          oNMm-  -mMNs
+
+~/nash-web $ df -h
+Filesystem        Size Used Avail Use% Mounted on
+/dev/block/dm-8   2.4G 2.4G     0 100% /
+tmpfs             3.7G 2.8M  3.7G   1% /dev
+tmpfs             3.7G    0  3.7G   0% /mnt
+/dev/block/dm-9   888M 885M     0 100% /system_ext
+/dev/block/dm-10  544M 542M     0 100% /vendor
+/dev/block/dm-11  2.9G 2.9G     0 100% /product
+tmpfs             3.7G  40K  3.7G   1% /apex
+/dev/block/loop5  2.1M 2.0M     0 100% /apex/com.google.mainline.primary.libs@351165000
+/dev/block/dm-19  232K  24K  204K  11% /apex/com.android.resolv@370547060
+/dev/block/loop7  108M 108M     0 100% /apex/com.android.vndk.v30@1
+/dev/block/dm-45  7.8M 7.8M     0 100% /apex/com.android.neuralnetworks@370547060
+/dev/block/dm-43   35M  35M     0 100% /apex/com.android.tethering@370549420
+/dev/block/dm-44   22M  22M     0 100% /apex/com.android.cellbroadcast@370549020
+/dev/block/dm-39  3.3M 3.2M     0 100% /apex/com.android.os.statsd@370547060
+/dev/block/dm-42   39M  39M     0 100% /apex/com.android.media.swcodec@370549000
+/dev/block/dm-41   11M  11M     0 100% /apex/com.android.adbd@370547060
+/dev/block/dm-40  7.2M 7.2M     0 100% /apex/com.android.media@370549000
+/dev/block/loop15 1.0M 1.0M  8.0K 100% /apex/com.android.rkpd@1
+/dev/block/loop16  45M  45M     0 100% /apex/com.android.vndk.v33@1
+/dev/block/dm-34  7.9M 7.8M     0 100% /apex/com.android.conscrypt@370549380
+/dev/block/dm-35  740K 712K   16K  98% /apex/com.android.tzdata@344101000
+/dev/block/dm-30  232K 104K  124K  46% /apex/com.android.scheduling@370549100
+/dev/block/loop26  39M  39M     0 100% /apex/com.android.vndk.v31@1
+/dev/block/dm-36   43M  43M     0 100% /apex/com.android.art@370549100
+/dev/block/loop29 7.3M 7.2M     0 100% /apex/com.motorola.enterprise@1
+/dev/block/loop20 308K 276K   28K  91% /apex/com.android.virt@2
+/dev/block/loop22  38M  38M     0 100% /apex/com.android.i18n@1
+/dev/block/loop24  36M  35M     0 100% /apex/com.android.btservices@340090000
+/dev/block/loop28 5.6M 5.6M     0 100% /apex/com.android.devicelock@1
+/dev/block/dm-28   18M  18M     0 100% /apex/com.android.wifi@370547060
+/dev/block/dm-24   21M  21M     0 100% /apex/com.android.adservices@370547060
+/dev/block/dm-25   14M  14M     0 100% /apex/com.android.ondevicepersonalization@370547060
+/dev/block/dm-20  836K 808K   12K  99% /apex/com.android.ipsec@370547060
+/dev/block/dm-17  5.4M 5.4M     0 100% /apex/com.android.configinfrastructure@370547060
+/dev/block/loop32 232K  96K  132K  43% /apex/com.android.apex.cts.shim@1
+/dev/block/loop33  10M  10M     0 100% /apex/com.android.runtime@1
+/dev/block/dm-12  4.2M 4.2M     0 100% /apex/com.android.appsearch@370547060
+/dev/block/dm-32  6.6M 6.6M     0 100% /apex/com.android.uwb@370549220
+/dev/block/loop34  41M  41M     0 100% /apex/com.android.vndk.v34@1
+/dev/block/dm-33  6.0M 6.0M     0 100% /apex/com.android.extservices@370547063
+/dev/block/dm-15  1.1M 1.0M   12K  99% /apex/com.android.sdkext@370547060
+/dev/block/dm-14   33M  33M     0 100% /apex/com.android.mediaprovider@370549200
+/dev/block/dm-26   16M  16M     0 100% /apex/com.android.healthfitness@370547060
+/dev/block/dm-16   28M  28M     0 100% /apex/com.android.permission@370549180
+/dev/block/dm-49  224G  76G  147G  35% /data
+/dev/fuse         224G  76G  147G  35% /storage/emulated
+tmpfs             3.8G    0  3.8G   0% /data/data
+tmpfs             3.8G    0  3.8G   0% /data/user
+tmpfs             3.8G    0  3.8G   0% /data/user_de
+tmpfs             3.8G    0  3.8G   0% /data/misc/profiles/cur
+tmpfs             3.8G    0  3.8G   0% /data/misc/profiles/ref
+~/nash-web $ pkg install openclaw
+Hit:1 https://termux.net stable InRelease
+All packages are up to date.
+Error: Unable to locate package openclaw
+~/nash-web $ openclaw
+No command openclaw found, did you mean:
+ Command opencc in package opencc-tools
+ Command openscad in package openscad
+~/nash-web $ ollama
+The program ollama is not installed. Install it by executing:
+ pkg install ollama
+~/nash-web $ pkg install ollama
+Installing:
+  ollama
+
+Installing dependencies:
+  libandroid-spawn
+
+Summary:
+  Upgrading: 0, Installing: 2, Removing: 0, Not Upgrading: 0
+  Download size: 11.0 MB
+  Space needed: 50.2 MB
+
+Continue? [Y/n] y
+Get:1 https://termux.net stable/main aarch64 libandroid-spawn aarch64 0.4-1 [908 B]
+Get:2 https://termux.net stable/main aarch64 ollama aarch64 0.30.10 [11.0 MB]
+26% [2 ollama 2130 kB/11.0 MB 19%]                                                           49.0 kB/s 3min 0s332% [2 ollama 3064 kB/11.0 MB 28%]                                                          46.3 kB/s 2min 5065% [2 ollama 7566 kB/11.0 MB 69%]  43.5 kB/s 1min 18s
+66% [2 ollama 7631 kB/11.0 MB 70%]  47.1 kB/s 1min 10s
+Fetched 11.0 MB in 6min 15s (29.3 kB/s)
+
+
+Selecting previously unselected package libandroid-spawn.
+(Reading database ... 32416 files and directories currently installed.)
+Preparing to unpack .../libandroid-spawn_0.4-1_aarch64.deb ...
+Unpacking libandroid-spawn (0.4-1) ...
+Selecting previously unselected package ollama.
+Preparing to unpack .../ollama_0.30.10_aarch64.deb ...
+Unpacking ollama (0.30.10) ...
+~/nash-web $ Ahi estas tu dando cotorra a la pobre niña~/nash-web $ Ahi estas tu dando cotorra a la pobre ni
