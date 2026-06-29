@@ -1,0 +1,319 @@
+Informe de progreso – Proyecto NASH Web
+
+Fecha
+
+28 de junio de 2026
+
+---
+
+Objetivo del proyecto
+
+Desarrollar una aplicación web ejecutada desde Termux que funcione como un dashboard de monitoreo con datos completamente simulados.
+
+La aplicación servirá para aprender:
+
+- Python
+- Desarrollo Backend
+- Desarrollo Frontend
+- Redes
+- APIs
+- Arquitectura de aplicaciones
+- Organización profesional de proyectos
+
+---
+
+FASE 1 - Creación del proyecto
+
+Creamos un nuevo proyecto llamado:
+
+Nash-Web
+
+Esta carpeta será el contenedor de todo el sistema.
+
+---
+
+Organización del proyecto
+
+Creamos una estructura profesional.
+
+app.py
+
+Es el corazón del proyecto.
+
+Aquí vive Flask.
+
+Su función es:
+
+- iniciar el servidor
+- recibir solicitudes
+- enviar páginas web
+
+Es el punto de entrada del sistema.
+
+---
+
+templates/
+
+Aquí viven las páginas HTML.
+
+El navegador nunca habla directamente con Python.
+
+Python entrega estas plantillas al navegador.
+
+---
+
+static/
+
+Contiene todos los archivos estáticos.
+
+Se divide en:
+
+css/
+
+Diseño visual.
+
+Colores
+
+Botones
+
+Tarjetas
+
+Distribución
+
+Animaciones
+
+---
+
+js/
+
+Aquí vive JavaScript.
+
+JavaScript hace que la página pueda cambiar sin recargarse.
+
+Más adelante controlará:
+
+- eventos
+- reloj
+- sensores
+- mapas
+- gráficos
+
+---
+
+api/
+
+Aquí construiremos la lógica.
+
+No dibuja nada.
+
+Su función será generar información simulada.
+
+Por ejemplo:
+
+- eventos
+- sensores
+- regiones
+- estado del sistema
+
+---
+
+logs/
+
+Guardará registros.
+
+Más adelante almacenará:
+
+- eventos
+- actividad
+- historial
+
+---
+
+data/
+
+Guardará información que use el proyecto.
+
+---
+
+Instalación de Flask
+
+Instalamos Flask.
+
+Flask convierte Python en un servidor web.
+
+Ahora Python puede responder cuando un navegador visita una dirección.
+
+---
+
+Primer servidor
+
+Creamos:
+
+app.py
+
+El servidor quedó funcionando correctamente.
+
+Flask quedó escuchando en:
+
+http://127.0.0.1:5000
+
+Esto significa que el navegador puede comunicarse con nuestro programa.
+
+---
+
+Primera página
+
+Creamos:
+
+index.html
+
+Fue la primera interfaz.
+
+El navegador ya recibe información desde Flask.
+
+---
+
+CSS
+
+Creamos el archivo:
+
+style.css
+
+Con él aprendimos a separar:
+
+Contenido (HTML)
+
+de
+
+Diseño (CSS)
+
+---
+
+Dashboard
+
+Transformamos una página simple en un dashboard.
+
+Añadimos:
+
+- encabezado
+- tarjetas
+- estado ONLINE
+- panel organizado
+
+El proyecto comenzó a verse como una aplicación profesional.
+
+---
+
+Preparación del mapa
+
+Creamos un espacio para integrar un mapa interactivo.
+
+Todavía no está terminado.
+
+Pero el proyecto ya tiene el lugar donde será colocado.
+
+---
+
+Comunicación Backend → Frontend
+
+Actualmente funciona así:
+
+Termux
+
+↓
+
+Python
+
+↓
+
+Flask
+
+↓
+
+HTML
+
+↓
+
+Navegador
+
+Ya existe comunicación entre todos esos componentes.
+
+---
+
+Lo aprendido
+
+Hoy aprendimos:
+
+✔ Crear proyectos profesionales
+
+✔ Organizar carpetas
+
+✔ Crear un servidor Flask
+
+✔ Servir páginas HTML
+
+✔ Separar HTML, CSS y JavaScript
+
+✔ Ejecutar un servidor web desde Termux
+
+✔ Acceder desde un navegador
+
+✔ Construir un dashboard básico
+
+---
+
+Próximas fases
+
+Fase 2
+
+Mapa interactivo
+
+---
+
+Fase 3
+
+API de eventos simulados
+
+---
+
+Fase 4
+
+Actualización automática usando JavaScript
+
+---
+
+Fase 5
+
+Marcadores sobre el mapa
+
+---
+
+Fase 6
+
+Panel de sensores
+
+---
+
+Fase 7
+
+Registro de eventos
+
+---
+
+Fase 8
+
+Sistema de usuarios
+
+---
+
+Fase 9
+
+Interfaz completamente profesional
+
+---
+
+Objetivo final
+
+Construir una plataforma web moderna de simulación que funcione desde Termux y pueda abrirse desde cualquier dispositivo conectado a la misma red local.
+
+El proyecto servirá como práctica de desarrollo web, Python y arquitectura de software, y podrá formar parte de un portafolio profesional.
